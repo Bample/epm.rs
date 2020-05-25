@@ -4,9 +4,9 @@
 
 <h1 class="mdui-typo-display-1" align="center">
   <br>
-  <img src="https://home.edgeless.top/cdn/epmlogo.png" width="150"/></a>
+  <img src="https://home.edgeless.top/cdn/epmlogo.png" width="5"/></a>
   <br>
-  EPM.js
+  <h2>EPM.js</h1>
   <br>
 </h1>
 <br>
