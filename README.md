@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://home.edgeless.top" alt="logo" ><img src="https://home.edgeless.top/cdn/epmlogo.png" width="150"/></a>
+  <a href="https://home.edgeless.top" alt="logo" ><img src="//home.edgeless.top/cdn/epmlogo.png" width="150"/></a>
   <br>
   EPM.js
   <br>
