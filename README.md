@@ -1,6 +1,6 @@
 <h1  align="center">
   <br>
-  <img src="http://cdn.my-file.cn/img/epmlogo.png" width="512"/></a>
+  <img src="https://cdn.my-file.cn/img/epmlogo.png" width="512"/></a>
   <br>
   EPM.js
   <br>
