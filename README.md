@@ -1,7 +1,3 @@
-<head>
-  <link rel="stylesheet" href="//www.mdui.org/source/dist/css/mdui.min.css"/>
- </head>
-
 <h1 class="mdui-typo-display-1" align="center">
   <br>
   <img src="https://home.edgeless.top/cdn/epmlogo.png" width="5"/></a>
