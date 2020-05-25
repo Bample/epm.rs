@@ -6,7 +6,7 @@
   <br>
   <img src="https://home.edgeless.top/cdn/epmlogo.png" width="5"/></a>
   <br>
-  <h2>EPM.js</h1>
+  EPM.js
   <br>
 </h1>
 <br>
