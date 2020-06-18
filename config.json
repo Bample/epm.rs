@@ -1,0 +1,15 @@
+{
+    "server": {
+        "status": true,
+        "config": {
+            "http": {
+                "host": "localhost",
+                "port": 80
+            },
+            "https": {
+                "host": "localhost",
+                "port": 443
+            }
+        }
+    }
+}
