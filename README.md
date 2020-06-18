@@ -4,7 +4,10 @@
   <br>
   EPM.js
   <br>
-  
+  <img src="https://img.shields.io/github/license/YinsTeam/epm.js?style=for-the-badge&logo=appveyor">
+  <img src="https://img.shields.io/github/downloads/YinsTeam/epm.js/total?style=for-the-badge&logo=appveyor">
+  <img src="https://img.shields.io/github/package-json/v/YinsTeam/epm.js/total?style=for-the-badge&logo=appveyor">
+  <img src="https://img.shields.io/github/size/YinsTeam/epm.js?style=for-the-badge&logo=appveyor">
 </h1>
 <br>
 <h3 align="center">A Unified Package Manager.</h3>
