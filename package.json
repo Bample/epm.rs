@@ -1,0 +1,32 @@
+{
+    "name": "epm",
+    "version": "1021",
+    "description": "A Unified Package Manager. | 一个简洁的通用包管理器.",
+    "main": "App.js",
+    "repository": "https://github.com/YinsTeam/epm.js",
+    "author": "YinsTeam <yinsteam@outlook.com>",
+    "license": "AGPL-3.0-or-later",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "cli-color": "^2.0.0",
+        "cli-progress": "^3.8.2",
+        "commander": "^5.1.0",
+        "eslint-config-airbnb": "18.1.0",
+        "readline-sync": "^1.4.10",
+        "sqlite": "^4.0.11",
+        "sqlite3": "^4.2.0",
+        "websocket-as-promised": "^1.0.1",
+        "ws": "^7.3.0"
+    },
+    "devDependencies": {
+        "@types/node": "^14.0.13",
+        "@typescript-eslint/eslint-plugin": "^3.3.0",
+        "@typescript-eslint/parser": "^3.3.0",
+        "eslint": "^7.2.0",
+        "eslint-plugin-import": "2.20.1",
+        "eslint-plugin-jsx-a11y": "6.2.3",
+        "eslint-plugin-react": "7.19.0",
+        "eslint-plugin-react-hooks": "2.5.0",
+        "typescript": "^3.9.5"
+    }
+}
