@@ -1,11 +1,15 @@
 {
     "name": "epm",
-    "version": "1021",
+    "version": "1.0.1021",
     "description": "A Unified Package Manager. | 一个简洁的通用包管理器.",
     "main": "App.js",
     "repository": "https://github.com/YinsTeam/epm.js",
     "author": "YinsTeam <yinsteam@outlook.com>",
     "license": "AGPL-3.0-or-later",
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+    "scripts": {
+        "dev": "node ."
+    },
     "dependencies": {
         "axios": "^0.19.2",
         "cli-color": "^2.0.0",
