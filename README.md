@@ -7,6 +7,7 @@
   
 </h1>
 <br>
-<h3 align="center">A Unified Package Manager For Windows &amp; Windows PE.</h3>
+<h3 align="center">A Unified Package Manager.</h3>
+
 
 
