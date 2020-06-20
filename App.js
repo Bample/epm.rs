@@ -73,7 +73,7 @@ async function mainHttpServer() {
    await expressWs(appSec, httpsServ);
    console.log(_cc.green(_cc.italic('Websocket - TLS Server is Listening On wss://'+httpsHost+':'+httpsPort+'/')))
    
-    
+   app.disable('x-powered-by'); 
    app.use('/', httpRouter);
 
    app.use('/', wsRouter)
