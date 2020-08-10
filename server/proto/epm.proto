@@ -1,0 +1,51 @@
+syntax = "proto3";
+package epm;
+
+service Basic {
+  rpc GetStatus (None) returns (StatusResponse) {};
+  rpc GetInfo (None) returns (GetInfoResponse) {};
+  rpc SearchPackageByName(SearchRequest) returns (SearchResponse) {};
+  // rpc GetInfoByID() returns () {};  
+}
+
+
+// service Get {
+  /*
+  rpc GetPackageByID() returns () {};
+  rpc GetReleaseTagsByID() returns () {};
+  rpc GetInfoByID() returns () {};
+  rpc GetGUIDByID() returns () {};
+
+  rpc GetPackageByGUID() returns () {};
+  rpc GetReleaseTagsByGUID() returns () {};
+  rpc GetInfoByGUID() returns () {};
+  */
+  
+  // rpc GetURL() returns () {};
+// }
+
+message SearchRequest {
+  string pattern = 1;
+}
+
+message SearchResponse {
+  repeated string result = 1;
+  // string error = 2;
+  string request_time = 3;
+}
+
+message StatusResponse {
+  string status = 1;
+  int32 code = 2;
+  string request_time = 3;
+}
+
+message GetInfoResponse {
+  string server_name = 1;
+  string server_version = 2;
+  string store_engine = 3;
+  string request_time = 4;
+}
+
+
+message None {}
